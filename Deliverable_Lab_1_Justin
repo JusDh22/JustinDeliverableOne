@@ -1,0 +1,32 @@
+
+module JustinDeliverableOne {
+	Scanner scnr = new Scanner(System.in); 
+	
+	int = vacationType; // Declare and initialize 3 variables
+	int = groupSize;
+	int = result;
+	
+	
+	vacationType = scnr.nextInt();
+	groupSize = scnr.nextInt();
+	result = scnr.nexInt();
+	
+	vacationType = a, b, c;
+	a = Musical;
+	b = Tropical;
+	c = Adventurous;
+	
+	if (vacationType = a) {
+		
+		Travel Suggestion = New Orleans;  //Use conditional statements to drive decision making of your program
+	}
+	if (vacationType = b) {
+		
+		Travel Suggestion = Beach Vacation in Mexico; 
+	}
+	if (vacationType = c) {
+		
+		Travel Suggestion = Whitewater Rafting the Grand Canyon;
+	}
+	
+	System.out.print()
